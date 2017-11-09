@@ -1,0 +1,6 @@
+c:\users\ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\bin\Debug\TriangleTest.exe.config
+c:\users\ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\bin\Debug\TriangleTest.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\bin\Debug\TriangleTest.pdb
+c:\users\ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.exe
+c:\users\ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.pdb
+C:\Users\Ruiz\documents\visual studio 2012\Projects\TriangleTest\TriangleTest\obj\Debug\TriangleTest.csprojResolveAssemblyReference.cache
